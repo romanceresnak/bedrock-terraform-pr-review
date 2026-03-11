@@ -37,3 +37,9 @@ Lambda is now using Claude Sonnet 4.5 (latest model available in eu-west-1).
 Now using Claude 3 Sonnet which supports on-demand throughput.
 This should work! 🚀
 
+
+## Fourth attempt: Claude 3 Haiku
+
+Using Claude 3 Haiku - active model with ON_DEMAND support.
+Should work now! 🎯
+
