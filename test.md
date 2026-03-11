@@ -31,3 +31,9 @@ This PR tests the automated review system! 🚀
 
 Lambda is now using Claude Sonnet 4.5 (latest model available in eu-west-1).
 
+
+## Third attempt: Claude 3 Sonnet
+
+Now using Claude 3 Sonnet which supports on-demand throughput.
+This should work! 🚀
+
