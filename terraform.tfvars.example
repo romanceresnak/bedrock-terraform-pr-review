@@ -1,0 +1,17 @@
+# AWS Configuration
+aws_region   = "eu-west-1"
+project_name = "bedrock-pr-review"
+environment  = "prod"
+
+# Bedrock Configuration
+# Note: Use Claude 3 Haiku for eu-west-1 (supports ON_DEMAND throughput)
+bedrock_model_id = "anthropic.claude-3-haiku-20240307-v1:0"
+
+# Lambda Configuration
+lambda_zip_path = "./lambda_deployment.zip"
+
+# GitHub Token (Optional - can be set manually in Secrets Manager after deployment)
+# github_token = "ghp_your_github_token_here"
+
+# CloudWatch Logs
+log_retention_days = 7
