@@ -26,3 +26,8 @@ print(f"Total: {total}")
 ```
 
 This PR tests the automated review system! 🚀
+
+## Update: Fixed Bedrock Model
+
+Lambda is now using Claude Sonnet 4.5 (latest model available in eu-west-1).
+
