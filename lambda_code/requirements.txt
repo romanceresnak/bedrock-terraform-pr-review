@@ -1,0 +1,4 @@
+# AWS SDK for Python
+boto3>=1.28.0
+
+# Note: urllib is part of Python standard library, no need to install
